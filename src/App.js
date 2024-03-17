@@ -4,12 +4,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
+        <h2>
           Hello World!
-        </p>
-        <a>
+        </h2>
+        <h6>
           This is just a frontend app deployed to Netlify.
-        </a>
+        </h6>
       </header>
     </div>
   );

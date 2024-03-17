@@ -5,8 +5,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Hello World! V2.
+          Hello World!
         </p>
+        <a>
+          This is just a frontend app deployed to Netlify.
+        </a>
       </header>
     </div>
   );
